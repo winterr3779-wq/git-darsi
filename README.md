@@ -1,0 +1,10 @@
+‎
+<!DOCTYPE>
+<html>
+<head>
+  <meta lan="en"/>
+</head>
+<body>
+<h1>Salom</h1>
+</body>
+</html>
